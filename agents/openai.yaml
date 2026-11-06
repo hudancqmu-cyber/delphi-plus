@@ -1,0 +1,4 @@
+interface:
+  display_name: "Delphi Plus"
+  short_description: "Draft and polish traceable Delphi research writing"
+  default_prompt: "Use $delphi-plus to draft or polish my Delphi expert consultation materials while preserving study facts."
